@@ -1,6 +1,6 @@
-<html><h2>Automation Tests to validate User functionality in Orange HRM application</h2>
+<html><h2>API Automation Tests to validate API responses</h2>
 <li><strong> Set up </strong> - Initialize an Playwright project using npm init playwright</li>
-<li><strong> Goal </strong> - Automate User Workflow on Orange HRM application</li>
+<li><strong> Goal </strong> - Design Automated API Tests to validate different API requests</li>
 <li><strong> Language </strong> - javascript </li>
 <li><strong> Steps: </strong> </li>
  <ol>

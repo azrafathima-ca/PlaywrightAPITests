@@ -10,6 +10,16 @@
   <li> Validate API response data content</li>
    </ol>
  <li><strong> Automation Tests </strong> - includes API Tests with assertions to validate different API method requests in file: apitests.spec.js </li>
+  <li> Automated API tests are as follows:   </li>
+  <ol>
+   <li> Test to validate GET API Request to receive a list of users </li>
+    <li> Test to validate GET API Request to receive a specific user </li>
+      <li> Test to validate POST API Request to create a new user </li>
+          <li> Test to validate PUT API Request to update a specific user </li>
+            <li> Test to validate PATCH API Request to update a specific user </li>
+                <li> Test to validate DELETE API Request to delete a specific user </li>
+  </ol>
+ 
 </html>
 
 
